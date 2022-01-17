@@ -1,2 +1,2 @@
-# Testingthingshere
-# A project where I try new codes and stuff
+Testingthingshere
+A project where I try new codes and stuff
